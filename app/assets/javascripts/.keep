@@ -1,0 +1,16 @@
+
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Front-End Developer Exercise</title>
+  <link rel="stylesheet" type="text/css" href="assets/stylesheets/styles.css">
+  
+</head>
+<body>
+  <header>
+    <img class="header-text" src="assets/images/header_text.jpg">
+
+  </header>
+
+  </body>
+  </html>
