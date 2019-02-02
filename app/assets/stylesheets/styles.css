@@ -39,11 +39,30 @@
   width: 300px;
 }
 
+.baby-step-one {
+   background-image: url('./../../../app/assets/images/icons/icons_small_bs1.png');
+  width: 300px;
+  height:75px;
+}
+
+.steps {
+  display:none;
+}
+
+
 .side-image {
   background-image: url('assets/images/icons/sprites/icons_small.png')
   height: 22px;
   margin-right:24px;
   width:25px;
+}
+
+h2 {
+  font-family: Source Sans Pro;
+  font-weight: semi-bold;
+  font-size: 30px;
+  color: #36abe1;
+  line-height:20px;
 }
 
 p {
