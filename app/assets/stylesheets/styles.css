@@ -45,9 +45,10 @@
   height:75px;
 }
 
-.steps {
+/*.steps {
   display:none;
-}
+}*/
+
 
 
 .side-image {
@@ -58,11 +59,20 @@
 }
 
 h2 {
-  font-family: Source Sans Pro;
+  font-family: Source Sans Pro, semi bold;
   font-weight: semi-bold;
   font-size: 30px;
-  color: #36abe1;
+  color:#36abe1;
+  line-height: 20px
+}
+
+span {
+  font-family:Source Sans Pro;
+  font-weight: lighter;
+  font: 18px;
+  color: #5c6366;
   line-height:20px;
+  margin-right:70px;
 }
 
 p {
