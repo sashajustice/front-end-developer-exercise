@@ -38,15 +38,15 @@
   padding-top: 3px;
   width: 300px;
 }
-
+/*
 .baby-step-one {
    background-image: url('./../../../app/assets/images/icons/icons_small_bs1.png');
   width: 300px;
   height:75px;
-}
+}*/
 
 .steps {
- /* display:none;*/
+  display:none;
 }
 
 h2 {
