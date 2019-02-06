@@ -112,3 +112,58 @@ h2 {
 }
 
 
+
+/*================*/
+.baby-step-icon_large {
+  width: 77px;
+  height: 60px;
+  float: left;
+  background: url('../images/icons/sprites/icons_large.png') 0px -10px;
+}
+.baby-step-heading>.heading-text, .baby-step-icon_large {
+  float: left;
+}
+.clearfix {
+  clear: both;
+}
+.heading-text h2, .heading-text h3 {
+  margin: 8px;
+}
+
+p a, p a:hover, p a:visited, p a:active {
+  color: #6fbee7;
+  text-decoration: none;
+}
+p a:hover {
+  opacity: .6;
+}
+
+.baby-step-icon_large.step-1 {
+  height: 42px;
+  background: url(../images/icons/sprites/icons_large.png) 0px -10px;
+  margin-top: 8px;
+}
+
+.icon{
+       
+        background: url('../images/icons/sprites/icons_small.png') no-repeat;
+        display:block;
+        height: 24px;
+        position:absolute;
+        right: 4px;
+        width: 30px;
+      }
+
+
+
+
+.baby-step-content {
+  -webkit-transition: top .5s ease-in-out; /* Safari */
+  transition: top .5s ease-in-out;
+  position: relative;
+}
+
+.baby-steps .baby-step.active {
+  max-height: 1000em;
+}
+
